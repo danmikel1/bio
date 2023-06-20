@@ -1,0 +1,25 @@
+#picDano{
+	width: 300px;
+	height: 314px;
+}
+#colDano{
+	height: 410px;
+}
+.icon{
+	width: 30px;
+}
+.col1{
+	margin-right: 15px;
+}
+ .col2{
+ 	margin-right: 15px;
+ }
+ .col3{
+ 	margin-right: 15px;
+ }
+ #skillsCol{
+ 	height: 338px;
+ }
+li{
+	text-transform: bold;
+}
